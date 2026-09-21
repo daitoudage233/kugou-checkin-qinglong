@@ -1,0 +1,11 @@
+# 令牌持久化文件，包含可用于登录的凭据，不应提交至仓库。
+kugou_userinfo.json
+
+# 扫码登录生成的一次性二维码图片。
+kugou_login_qr.gif
+
+# 上游源码快照与本地打包文件：仅作本地参考，不入库。
+# 上游仓库地址见 README 的「上游来源与许可证」一节。
+kgcheckin-main/
+upstream-main.zip
+kgcheckin-qinglong.rar
